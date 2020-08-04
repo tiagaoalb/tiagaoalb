@@ -1,4 +1,3 @@
-```markdown
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 # Tiago Augusto Lunardi Bovolin 
@@ -15,6 +14,3 @@ Sou um Estudante FullStack :computer:
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/TiagoLunardi-Future%20Awesome%20Developer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-augusto-lunardi-bovolin/)](https://www.linkedin.com/in/tiago-augusto-lunardi-bovolin/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-tiagaoalb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tigaoalb@gmail.com)](mailto:tiagaoalb@gmail.com)
-
-```
-
