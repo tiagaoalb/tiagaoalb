@@ -6,7 +6,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um Estudante FullStack :computer:
 
- :rocket:  &nbsp; Estou estudando na **Rocketseat**
+ :rocket:  &nbsp; Estou estudando na **Trybe** e **Rocketseat**
  <br/> :blue_heart: &nbsp; Buscando colaborar com projetos em Front-end e Back-End 
  <br/> :computer: &nbsp; Minha stack: HTML, CSS e Javascript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Dota2, RPG, seriados e filmes.
